@@ -2,7 +2,7 @@
 
 ### Exercise 1:
 
-Create a new HTML file called ```problem1_cw.html```, and copy the code below into the ```<body>``` of your HTML file. 
+Create a new HTML file called ```problem1_cw.html```, and copy the code below into the ```<body>``` of your HTML file.
 ```
 <h1>HTML Can be more Fun than Python</h1>
 <h2>But is html more Fun than Java?</h2>
@@ -19,7 +19,7 @@ Create a new HTML file called ```problem1_cw.html```, and copy the code below in
 
 Start with the included HTML file ```problem2_cw.html```. Create an external CSS file called ```problem2_cw.css``` and create selectors to style the HTML as follows:
 
-* Give the p tags a gray background, and a right margin of 10%. 
+* Give the p tags a gray background, and a right margin of 10%.
 * Make the class "secondParagraph" have a background color of blue, and horizontally centered on the page.
 * Create selectors to set the background of the first, third, and fourth classes to pink with top and bottom padding of 10px.
 * Create a selector that styles the text ```My First Jibberish Post!``` that sets block properties as follows:
@@ -36,4 +36,3 @@ Start with the included HTML file ```problem3_cw.html```. The starter HTML has a
 
 * The title and the tic-tac-toe board should stay vertically and horzontally centered on the wb page.
 * Add additional styles to better format the title to use borders and a colored background
-

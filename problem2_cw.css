@@ -1,0 +1,23 @@
+p {
+  background-color: gray;
+  margin-right: 10%;
+}
+
+#secondParagraph {
+  background-color: blue;
+  border: centered;
+}
+
+#class_selector {
+  background-color: pink;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  width: 500px;
+  height: 100px;
+  padding: 10px;
+  border-style: dashed 3px;
+  text-align: center;
+}

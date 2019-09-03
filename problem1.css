@@ -1,0 +1,15 @@
+#h1_tag {
+  color: red;
+  padding: 20px;
+  display:
+}
+
+#h2_tag {
+  color: blue;
+  border: 1px;
+}
+
+span {
+  color: green;
+  font-weight: bold;
+}
